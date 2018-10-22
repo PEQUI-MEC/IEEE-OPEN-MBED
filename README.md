@@ -1,4 +1,4 @@
-# open-mbed
+# IEEE-OPEN-MBED
 
 ## Prerequisites:
 
