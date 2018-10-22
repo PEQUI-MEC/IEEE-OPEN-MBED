@@ -1,6 +1,6 @@
 # open-mbed
 
-##Prerequisites:
+## Prerequisites:
 
 - Git installed
 - Ros and Catkin installed in your pc
@@ -8,7 +8,7 @@
 - Install rosserial package
 - Set some environment variables
 
-##GCC4mbed
+## GCC4mbed
 
 Clone gcc4mbed from https://github.com/adamgreen/gcc4mbed into $HOME directory
 - first in your $HOME directory match the following command:
@@ -19,7 +19,7 @@ Clone gcc4mbed from https://github.com/adamgreen/gcc4mbed into $HOME directory
   ./linux_install
 - wait finish
 
-##ROSSERIAL
+## ROSSERIAL
 
 Download and install rossserial
 - enter in ~/catkin_ws/src directory
@@ -39,7 +39,7 @@ Set some environment variables
   - export GCC4MBED_DIR=~/gcc4mbed
   - export ROS_LIB_DIR=~/ros/lib/ros_lib
   
-##COMPILE
+## COMPILE
 
 - run make
 - copy rosserial_step_motor_open.bin to mbed
